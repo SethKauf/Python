@@ -27,3 +27,4 @@ def secant_method(lower_bound: float, upper_bound: float, repeats: int) -> float
 
 if __name__ == "__main__":
     print(f"Example: {secant_method(1, 3, 2) = }")
+# Adding a comment to see what happens
